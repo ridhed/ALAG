@@ -1,5 +1,6 @@
 <!-- Add banner here -->
-![Screenshot (312)](https://github.com/ridhed/ALAG/assets/83410546/9ce7e0a4-d2bb-4dcd-8a0c-308df6562f54)
+![rsz_undraw_yacht_re_kkai](https://github.com/ridhed/ALAG/assets/83410546/98929806-5fdc-4f4a-be93-62c293e8643c)
+
 
 
 # ALAG
